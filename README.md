@@ -13,6 +13,10 @@ Resources to help you become a FSDS - Full Stack Data Scientist
 - This comes at a much much greater cost for companies and now a single individual may be aske to do all of these.
 ***
 
+## Courses
+- [Full Stack Data Scientist | Udemy](https://www.udemy.com/course/full-stack-data-science/)
+***
+
 ## References
 - [Why Data Science Teams Need Generalists, Not Specialists ](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
 - [Full Stack Data Scientist Vs Full Stack Software Engineer](https://www.linkedin.com/pulse/full-stack-data-scientist-vs-softwareengineer-total-data-science/)
