@@ -3,7 +3,7 @@ Resources to help you become a FSDS - Full Stack Data Scientist
 ***
 
 ## Definition
-- A FSDS is someone who knows the “end-to-end” of a data science project. E22: from getting the data, cleanign the data, applying feature engineering, model building, model validation, model optimisation as well as model deployment.
+- A FSDS is someone who knows the E2E (“end-to-end”) of a data science project. From getting the data, cleanign the data, applying feature engineering, model building, model validation, model optimisation as well as model deployment.
 - DA FSDS is a melting pot of the following: Statician, Data Scientist, Machine Learnign Engineer, Data Engineer, Data Steward, Data Analyst, Data Architect, Data Ops, Data Dev…
 - Also known as "full-pipe" data scientist.
 ***
