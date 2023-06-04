@@ -25,6 +25,10 @@ Resources to help you become a FSDS - Full Stack Data Scientist
 - [Awesome-Data-Science-Machine-Learning-Resources](https://github.com/kyaiooiayk/Awesome-Data-Science-Machine-Learning-Resources)
 ***
 
+## ⚙️Resources focused on DS & ML in production⚙️
+- [Machine learning in production](https://github.com/eugeneyan/applied-ml)
+***
+
 ## Courses
 - [Full Stack Data Scientist | Udemy](https://www.udemy.com/course/full-stack-data-science/)
 ***
