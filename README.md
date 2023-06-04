@@ -13,6 +13,10 @@ Resources to help you become a FSDS - Full Stack Data Scientist
 - This comes at a much much greater cost for companies and now a single individual may be aske to do all of these.
 ***
 
+## Resources focused on DS & ML
+- [Awesome-Data-Science-Machine-Learning-Resources](https://github.com/kyaiooiayk/Awesome-Data-Science-Machine-Learning-Resources)
+***
+
 ## Courses
 - [Full Stack Data Scientist | Udemy](https://www.udemy.com/course/full-stack-data-science/)
 ***
