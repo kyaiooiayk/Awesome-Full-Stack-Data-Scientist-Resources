@@ -12,11 +12,10 @@ Resources to help you become a FSDS - Full Stack Data Scientist
 - Data teams had: data engineers to build pipelines, data scientists to perform statistical analysis and/or build a model, and ML engineers to deploy a model in scale.
 - This comes at a much much greater cost for companies and now a single individual may be aske to do all of these.
 
-
-| Role | Skills | Tool |
+| Role | Skills | Tools |
 | - | - | - |
-| Data scientist | Coding, statistics, machine learning | Python |
-| Data analyst | SQL, data exploration, visualization, communication | SQL |
+| Data scientist | Coding, statistics, machine learning | Python, R |
+| Data analyst | RDB, data exploration, visualization, communication | SQL |
 | Data engineer | Data pipelines, data quality and testing | Python, Spark |
 | Machine learning engineer | Building APIs, containerization, cloud, model monitoring | Python, Java |
 ***
@@ -29,11 +28,11 @@ Resources to help you become a FSDS - Full Stack Data Scientist
 - [Machine learning in production](https://github.com/eugeneyan/applied-ml)
 ***
 
-## Courses
+## 🎓Courses🎓
 - [Full Stack Data Scientist | Udemy](https://www.udemy.com/course/full-stack-data-science/)
 ***
 
-## References
+## 📚References📚
 - [Why Data Science Teams Need Generalists, Not Specialists ](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
 - [Full Stack Data Scientist Vs Full Stack Software Engineer](https://www.linkedin.com/pulse/full-stack-data-scientist-vs-softwareengineer-total-data-science/)
 ***
