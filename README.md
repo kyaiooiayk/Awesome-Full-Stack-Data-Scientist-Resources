@@ -19,6 +19,9 @@ Resources to help you become a FSDS - Full Stack Data Scientist
 | Data engineer | Software Engineer| Data pipelines, data quality and testing | Python, Spark |
 | Machine learning engineer | Software Engineer | Building APIs, containerization, cloud | Python, C++, Java |
 | MLOps engineer | Software Engineer, DevOpt, Full Stack Engineer | Building APIs, containerization, cloud, model monitoring | Python, Java |
+
+![image](https://github.com/kyaiooiayk/Awesome-Full-Stack-Data-Scientist-Resources/assets/89139139/52cc9f0f-c934-4412-a445-b37cb2bd17c7)
+
 ***
 
 ## MLOps vs. FSDS
