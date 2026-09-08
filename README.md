@@ -51,5 +51,5 @@ Resources to help you become a FSDS - Full Stack Data Scientist
 - [Full Stack Data Scientist Vs Full Stack Software Engineer](https://www.linkedin.com/pulse/full-stack-data-scientist-vs-softwareengineer-total-data-science/)
 - [Data Scientist vs Machine Learning Ops Engineer. Here’s the Difference.](https://towardsdatascience.com/data-scientist-vs-machine-learning-ops-engineer-heres-the-difference-ad976936e651)
 - [The 7 personas of Machine Learning](https://delphinaai.substack.com/p/the-7-personas-of-machine-learning?utm_source=substack&utm_medium=email)
-- [Becoming a hibrid AI developer/scientist](https://www.datasciencecentral.com/becoming-a-hybrid-ai-developer-scientist/)
+- [Becoming a hybrid AI developer/scientist](https://www.datasciencecentral.com/becoming-a-hybrid-ai-developer-scientist/)
 ***
